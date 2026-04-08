@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate Web Developer with a knack for crafting clean, efficient, and user-friendly websites. I enjoy turning ideas into fully functional and visually appealing digital experiences.<br><br>💻 Tech Stack:<br><br>     - Frontend: React.js, Next.js<br>     - Backend: Node.js, Express<br>     - Tools: Git, Resend, and more!<br>✨ Fun Fact: I love exploring new tech trends and optimizing workflows to make life easier (and coding smoother).<br><br>🚀 Let's Connect: Whether you're here to collaborate, brainstorm, or just say hi, feel free to drop by!
+👋 Hi there! I'm a passionate Web Developer with a knack for crafting clean, efficient, and user-friendly websites. I enjoy turning ideas into fully functional and visually appealing digital experiences.<br><br>💻 Tech Stack:<br><br>     - Frontend: React.js, Next.js<br>     - Backend: Node.js, Express, Rust<br>     - Tools: Git, Resend, and more!<br>✨ Fun Fact: I love exploring new tech trends and optimizing workflows to make life easier (and coding smoother).<br><br>🚀 Let's Connect: Whether you're here to collaborate, brainstorm, or just say hi, feel free to drop by!
 
 
 ## 🌐 Socials:
